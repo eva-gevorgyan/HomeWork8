@@ -1,0 +1,15 @@
+C:\Users\Eva\source\repos\StudentAspirant\StudentAspirant\bin\Debug\net6.0\StudentAspirant.exe
+C:\Users\Eva\source\repos\StudentAspirant\StudentAspirant\bin\Debug\net6.0\StudentAspirant.deps.json
+C:\Users\Eva\source\repos\StudentAspirant\StudentAspirant\bin\Debug\net6.0\StudentAspirant.runtimeconfig.json
+C:\Users\Eva\source\repos\StudentAspirant\StudentAspirant\bin\Debug\net6.0\StudentAspirant.dll
+C:\Users\Eva\source\repos\StudentAspirant\StudentAspirant\bin\Debug\net6.0\StudentAspirant.pdb
+C:\Users\Eva\source\repos\StudentAspirant\StudentAspirant\obj\Debug\net6.0\StudentAspirant.csproj.AssemblyReference.cache
+C:\Users\Eva\source\repos\StudentAspirant\StudentAspirant\obj\Debug\net6.0\StudentAspirant.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Eva\source\repos\StudentAspirant\StudentAspirant\obj\Debug\net6.0\StudentAspirant.AssemblyInfoInputs.cache
+C:\Users\Eva\source\repos\StudentAspirant\StudentAspirant\obj\Debug\net6.0\StudentAspirant.AssemblyInfo.cs
+C:\Users\Eva\source\repos\StudentAspirant\StudentAspirant\obj\Debug\net6.0\StudentAspirant.csproj.CoreCompileInputs.cache
+C:\Users\Eva\source\repos\StudentAspirant\StudentAspirant\obj\Debug\net6.0\StudentAspirant.dll
+C:\Users\Eva\source\repos\StudentAspirant\StudentAspirant\obj\Debug\net6.0\refint\StudentAspirant.dll
+C:\Users\Eva\source\repos\StudentAspirant\StudentAspirant\obj\Debug\net6.0\StudentAspirant.pdb
+C:\Users\Eva\source\repos\StudentAspirant\StudentAspirant\obj\Debug\net6.0\StudentAspirant.genruntimeconfig.cache
+C:\Users\Eva\source\repos\StudentAspirant\StudentAspirant\obj\Debug\net6.0\ref\StudentAspirant.dll
